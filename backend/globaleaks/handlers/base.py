@@ -43,6 +43,7 @@ class FileProducer(object):
         self.fo = fo
 
     def start(self):
+        print(self.request.registerProducer)
         self.request.registerProducer(self, False)
         return self.finish
 
