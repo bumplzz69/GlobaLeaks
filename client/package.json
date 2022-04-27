@@ -35,7 +35,7 @@
   "devDependencies": {
     "eslint": "5.6.0",
     "gettext-parser": "2.0.0",
-    "grunt": "1.0.3",
+    "grunt": "1.5.2",
     "grunt-angular-templates": "1.1.0",
     "grunt-confirm": "1.0.8",
     "grunt-contrib-clean": "2.0.0",
