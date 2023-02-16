@@ -1,9 +1,9 @@
 Parsley==1.2
-Twisted==17.9.0
+Twisted==22.10.0rc1
 acme==0.25.1
 cffi==1.11.5
 chardet==2.3.0
-cryptography==2.1.4
+cryptography==39.0.1
 idna==2.6
 pyOpenSSL==17.5.0
 pyasn1==0.1.9
