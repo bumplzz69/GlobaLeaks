@@ -4,7 +4,7 @@ acme==0.25.1
 cffi==1.11.5
 chardet==2.3.0
 cryptography==2.1.4
-idna==2.6
+idna==3.7
 pyOpenSSL==17.5.0
 pyasn1==0.1.9
 pyasn1_modules==0.0.7
