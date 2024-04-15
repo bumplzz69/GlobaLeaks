@@ -5,7 +5,7 @@ chardet==2.3.0
 cffi==1.9.1
 cryptography==1.9
 enum34==1.1.2
-idna==2.0
+idna==3.7
 pyOpenSSL==16.2.0
 pyasn1==0.1.9
 pyasn1_modules==0.0.7
