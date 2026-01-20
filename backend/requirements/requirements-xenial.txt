@@ -7,7 +7,7 @@ cryptography==1.2.3
 enum34==1.1.2
 idna==2.0
 pyOpenSSL==0.15.1
-pyasn1==0.1.9
+pyasn1==0.6.2
 pyasn1_modules==0.0.7
 pycparser==2.14
 python_debian==0.1.28
